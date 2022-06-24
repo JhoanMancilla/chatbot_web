@@ -1,0 +1,9 @@
+/node_modules
+.env
+/public
+/.vscode
+/config
+chatbot-354104-9b2e2a2973dd.json
+chatbot-354104-16ffa7c7eeb9-nueva.json
+chatbot.code-workspace
+client_secret_651799516430-lqaq66sejj4t699ug48v49fnk5g38ugu.apps.googleusercontent.com.json
